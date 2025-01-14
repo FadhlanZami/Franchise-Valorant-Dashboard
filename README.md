@@ -20,7 +20,7 @@ This interactive dashboard built using **Streamlit** provides an in-depth analys
 Clone this repository to your local machine by running the following command:
 
 ```bash
-git clone https://github.com/username/valorant-dashboard.git
+git clone https://github.com/FadhlanZami/Franchise-Valorant-Dashboard.git
 cd valorant-dashboard
 ```
 
